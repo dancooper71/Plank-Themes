@@ -1,15 +1,14 @@
-# Plank-Themes
+# Plank Theme Collection
 
 ### About the collection
-##
+
 This is a huge Plank theme collection 107 plank themes in total they have been collected from various places around the web and integrated into one theme pack for convenience, I’ve only shown a few in the screen shots as there is to many to show in 5 screen shots.
 
 ##
 
 How to install
 
-
-To install the Plank themes, copy the contents of the Plank Themes folder to ~/.local/share/plank/themes or to /usr/share/plank/themes for system-wide use. Now open the Plank preferences window by executing plank --preferences from a terminal and then select from the huge collection of themes.
+To install the Plank themes, copy the contents of the Plank Themes folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use. Now open the Plank preferences window by executing `plank --preferences` from a terminal and then select from the huge collection of themes.
 
 ##
 

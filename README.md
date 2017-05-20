@@ -32,7 +32,7 @@ Bugs should be reported [here](https://github.com/LinxGem33/Plank-Themes/issues)
 
 ### License & Terms ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/Copyleft-16.png?raw=true)
 
-Plank Themes is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-White/blob/master/COPYING) for details.
+Plank Themes is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/Plank-Themes/blob/master/COPYING) for details.
 
 ## 
 

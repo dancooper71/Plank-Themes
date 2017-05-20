@@ -2,7 +2,7 @@
 
 ### About the collection
 
-This is a huge Plank theme collection 107 plank themes in total they have been collected from various places around the web and integrated into one theme pack for convenience, I’ve only shown a few in the screen shots as there is to many to show in 5 screen shots.
+This is a huge Plank theme collection 107 plank themes in total they have been collected from various places around the web and integrated into one theme pack for convenience, I’ve only shown a few in the screen shots as there is to many to show in one place.
 
 ##
 

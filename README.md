@@ -26,7 +26,7 @@ To install the Plank themes, copy the contents of the Plank Themes folder to `~/
 
 ### Bugs
 
-Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-White/issues) on the Github issues page.
+Bugs should be reported [here](https://github.com/LinxGem33/Plank-Themes/issues) on the Github issues page.
 
 ## 
 

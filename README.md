@@ -32,10 +32,10 @@ Bugs should be reported [here](https://github.com/LinxGem33/Plank-Themes/issues)
 
 ### License & Terms ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/Copyleft-16.png?raw=true)
 
-OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-White/blob/master/COPYING) for details.
+Plank Themes is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-White/blob/master/COPYING) for details.
 
 ## 
 
 ### Contributions & Suggestions
 
-Any suggestions for features and contributions to the continuing code development can be made via the issue tracker or code contributions via a pull request.
+Any suggestions for features and contributions to the continuing development can be made via the issue tracker or contributions via a pull request.

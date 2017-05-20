@@ -21,3 +21,21 @@ To install the Plank themes, copy the contents of the Plank Themes folder to `~/
 ![](https://cn.pling.com/img/b/6/f/f/98cde920af4548e0a4c83e009f17f9d7ce0a.png)
 ##
 ![](https://cn.pling.com/img/9/a/6/3/afe79752be73718e79e3cec450bc5f9e239b.png)
+
+## 
+
+### Bugs
+
+Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-White/issues) on the Github issues page.
+
+## 
+
+### License & Terms ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/Copyleft-16.png?raw=true)
+
+OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-White/blob/master/COPYING) for details.
+
+## 
+
+### Contributions & Suggestions
+
+Any suggestions for features and contributions to the continuing code development can be made via the issue tracker or code contributions via a pull request.
